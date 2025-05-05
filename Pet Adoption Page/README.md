@@ -25,3 +25,8 @@ A simple pet adoption website created to practice CSS Flexbox layout and card de
 - Text styling and color schemes
 
 ## File Structure
+PetAdoption
+├── PetAdoption.html # Main HTML file
+├── Petstyle.css # CSS stylesheet
+├── dog.jpg # Dog image (Jerry)
+├── cat.jpg # Cat image (Tom)
