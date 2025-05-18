@@ -16,8 +16,8 @@ A clean, responsive recipe webpage built using semantic HTML and custom CSS. Thi
 
 ## 🖼️ Screenshot
 
-![Final Screenshot](/Screenshot.jpeg)
-![Mobile Screenshot](/screenshot2.jpeg)
+![Final Screenshot](Screenshot.jpeg)
+![Mobile Screenshot](screenshot2.jpeg)
 
 ---
 
