@@ -1,27 +1,140 @@
-*{
-  background-color: hsl(30, 54%, 90%); 
-  box-sizing: border-box; 
+:root {
+  --main-color: hsl(30, 54%, 90%);
+  --secondary-color: hsl(24, 5%, 18%);
+  --tertiary-color: hsl(30, 10%, 34%);
+  --font-family: 'Outfit', sans-serif;
+  --heading: hsl(14, 45%, 36%);
+  --prep: hsl(332, 51%, 32%);
 }
-.container{
-    width: 700px;
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 30px;
-    margin: 60px auto;
+
+* {
+  box-sizing: border-box;
 }
-.container .contents {
-    margin: 30px;
-    background-color: white;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: var(--main-color);
+  font-family: var(--font-family);
 }
-img{
+
+.container-fluid {
+  width: 700px;
+  background-color: rgba(255, 255, 255, 0.879);
+  border-radius: 30px;
+  margin: 60px auto;
+}
+
+.contents {
+  padding: 20px;
+  margin: 20px;
+}
+
+.image-wrapper {
+      margin-top: 1rem;
+}
+
+.image-wrapper img {
+  width: 100%;
+  display: block;
+  border-radius: 25px;
+
+}
+
+.Intro h1 {
+  color: var(--secondary-color);
+  font-size: 2.5rem;
+  font-family: 'Young Serif', serif;
+  font-weight: 800;
+}
+
+.Intro p {
+  color: var(--tertiary-color);
+}
+
+.prep-time {
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.prep-time h3 {
+  color: var(--prep);
+  font-size: 1.5rem;
+  margin-left: 1.2rem;
+}
+
+.prep-time ul li,
+.prep-time ul li span {
+  color: var(--tertiary-color);
+}
+
+.prep-time ul li span {
+  font-weight: 700;
+}
+
+.prep-time ul li::marker {
+  color: var(--prep);
+}
+
+.ingredients h2,
+.instructions h2,
+.nutrition h2 {
+  color: var(--heading);
+  font-family: 'Young Serif', serif;
+  font-size: 1.7rem;
+}
+
+.ingredients ul,
+.instructions ol li,
+.nutrition p {
+  color: var(--tertiary-color);
+  line-height: 2;
+}
+
+.ingredients ul li::marker,
+.instructions ol li::marker {
+  color: var(--heading);
+}
+
+.instructions ol li {
+  margin: 0.7rem;
+  line-height: 1.5;
+  padding-left: 1rem;
+}
+
+.instructions ol li span {
+  font-weight: 700;
+}
+
+.nutrition .values {
+  padding: 20px;
+  margin: 5px;
+}
+
+.nutrition .values .block {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 7px;
+  color: var(--tertiary-color);
+}
+
+.nutrition .values .block span {
+  color: var(--heading);
+  font-weight: 700;
+}
+
+/* ✅ Mobile Responsive */
+@media (max-width: 768px) {
+  .container-fluid {
     width: 100%;
-    height: auto;
-    border-radius: 30px;
+    margin: 0;
+    border-radius: 0;
+  }
+
+  .contents {
+    margin: 0;
+  }
 }
-.container .contents .Intro h1{
-    color: hsl(24, 5%, 18%);
-}
-p{
-    color: hsl(30, 10%, 34%);
-}
-.container .contents .prep-time 
