@@ -56,9 +56,14 @@ The biggest **headscratcher** during this build was figuring out why there was s
 
 ---
 
+### Links
+https://recipe-frontend-developer.netlify.app/
+
+---
+
 ## 🙋‍♂️ Author
 
 - GitHub: [@Shambhavi-Kothiwal](https://github.com/Shambhavi-Kothiwal)
-- Frontend Mentor: [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor: [@Shambhavi-Kothiwal](https://www.frontendmentor.io/profile/Shambhavi-Kothiwal)
 
 ---
