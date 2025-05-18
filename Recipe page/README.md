@@ -46,7 +46,7 @@ A clean, responsive recipe webpage built using semantic HTML and custom CSS. Thi
 
 - `index.html` – HTML structure of the recipe page  
 - `style.css` – All styling including responsiveness  
-- `screenshot.jpg` – 📸 Screenshot of the final result (replace with yours)
+- `screenshot.jpg` – 📸 Screenshot of the final result 
 
 ---
 
@@ -56,16 +56,9 @@ The biggest **headscratcher** during this build was figuring out why there was s
 
 ---
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
----
-
 ## 🙋‍♂️ Author
 
-- GitHub: [@yourgithub](https://github.com/yourgithub)
+- GitHub: [@Shambhavi-Kothiwal](https://github.com/Shambhavi-Kothiwal)
 - Frontend Mentor: [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 ---

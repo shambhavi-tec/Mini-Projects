@@ -26,6 +26,9 @@ The trick is based on:
 - Label tags acting as toggles for opening and closing the sidebar
 - CSS selectors like `#check:checked ~ .sidebar_menu` for conditional styling
 
+### Link
+https://photography-slide-in-menu.netlify.app/
+
 ### 📚 Credits
 
 Inspired by Apna College's CSS practice exercises.
