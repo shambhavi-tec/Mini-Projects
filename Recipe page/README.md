@@ -26,9 +26,10 @@ A clean, responsive recipe webpage built using semantic HTML and custom CSS. Thi
 - **HTML5**
 - **CSS3**
   - CSS Variables
+  - CSS Grid
   - Flexbox
   - Media Queries
-  - Custom styling (no libraries/frameworks)
+  - Custom styling 
 
 ---
 
