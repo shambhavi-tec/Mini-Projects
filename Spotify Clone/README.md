@@ -71,7 +71,7 @@ It replicates the layout, structure, and look of Spotify’s interface using **H
 ---
 
 ### 🔗 Live Link
-(https://spotify-cloning-practice.netlify.app/)
+http://spotify-practice-clone.netlify.app/
 
 ---
 
