@@ -3,8 +3,7 @@
 This project is an **exact clone of the Spotify Web Player UI**, built only for **practicing frontend development skills**.  
 It replicates the layout, structure, and look of Spotify’s interface using **HTML** and **CSS**.  
 
-⚠️ **Disclaimer:** This is a non-commercial practice project.  
-Some of Spotify’s original custom logos and fonts were not publicly available, so **alternative icons and fonts have been substituted**.
+⚠️ **Disclaimer:** This is a non-commercial practice project. I have taken some **creative liberties**.
 
 ---
 

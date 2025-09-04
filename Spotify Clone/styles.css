@@ -128,6 +128,11 @@ a {
     height: 2rem;
     width: fit-content;
 }
+ .box button:hover{
+    cursor: pointer;
+    background-color: #b3b3b3;
+    transform: scale(1.05);
+ }
 
 .sticky-nav{
     position: sticky;
@@ -168,13 +173,15 @@ a {
 .dark-badge i{
     margin-right: 0.5rem;
 }
+.badge:hover{
+    transform: scale(1.05);
+}
 
 @media (max-width: 1000px) {
 
     .hide{
         display: none !important; 
     }
-
 }
 
 .card{
@@ -182,8 +189,11 @@ a {
     border-radius: 0.25rem;
     padding: 1rem;
     width: 200px;
-    
-    
+}
+.card:hover{
+    background-color: #3e3c3c;
+    cursor: pointer;
+    transform: scale(1.05);
 }
 .card-container{
     display: flex;
