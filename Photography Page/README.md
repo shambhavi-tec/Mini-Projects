@@ -29,6 +29,12 @@ The trick is based on:
 ### Link
 https://photography-slide-in-menu.netlify.app/
 
+### Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhavi-dev/) 
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shambhavi-tec)  
+
 ### 📚 Credits
 
 Inspired by Apna College's CSS practice exercises.
@@ -36,3 +42,4 @@ Inspired by Apna College's CSS practice exercises.
 ---
 
 Feel free to customize the menu items, animations, or styles!
+
