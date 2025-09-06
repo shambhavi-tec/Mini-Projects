@@ -64,7 +64,12 @@ https://recipe-frontend-developer.netlify.app/
 
 ## 🙋‍♂️ Author
 
-- GitHub: [@Shambhavi-Kothiwal](https://github.com/Shambhavi-Kothiwal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]shambhavikothiwal.2003@gmal.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)  
+
 - Frontend Mentor: [@Shambhavi-Kothiwal](https://www.frontendmentor.io/profile/Shambhavi-Kothiwal)
 
 ---
